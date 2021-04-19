@@ -7,3 +7,5 @@ Output: the correct, truncated term for how that person is related to you.
 
   - If you had an Aunt Sally who is your mother's sister, you would type in "mother's sister" and you would receive an output of "aunt".
   - If you had a Great Uncle Herbert who is your father's mother's brother, you would input that string and get an output of "great uncle".
+
+I acknowledge and apologize in advance for the slightly hard-to-read code.
